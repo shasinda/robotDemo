@@ -1,0 +1,19 @@
+{
+  "name": "robotdemo",
+  "version": "0.0.1",
+  "description": "Basic Implementation robot movement simulation",
+  "main": "robot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shasinda/robotDemo.git"
+  },
+  "author": "Shasinda Gunatunge <shasinda@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shasinda/robotDemo/issues"
+  },
+  "homepage": "https://github.com/shasinda/robotDemo#readme"
+}
